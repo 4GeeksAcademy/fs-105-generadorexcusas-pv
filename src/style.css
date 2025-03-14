@@ -3,3 +3,13 @@
 body{
     background: white;
 }
+h1 {
+    background-color: rgba(248, 235, 57, 0.815) ;
+    text-align: center;
+    display: flexbox;
+    width: auto;
+
+}
+#excuse {
+    
+    display: block;}
